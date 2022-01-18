@@ -3,3 +3,13 @@ D:\Faculdade_Uninove\Git & GitHub\Meus Projetos\project-crud-app\crud-app\obj\De
 D:\Faculdade_Uninove\Git & GitHub\Meus Projetos\project-crud-app\crud-app\obj\Debug\net6.0\crud-app.AssemblyInfoInputs.cache
 D:\Faculdade_Uninove\Git & GitHub\Meus Projetos\project-crud-app\crud-app\obj\Debug\net6.0\crud-app.AssemblyInfo.cs
 D:\Faculdade_Uninove\Git & GitHub\Meus Projetos\project-crud-app\crud-app\obj\Debug\net6.0\crud-app.csproj.CoreCompileInputs.cache
+D:\Faculdade_Uninove\Git & GitHub\Meus Projetos\project-crud-app\crud-app\bin\Debug\net6.0\crud-app.exe
+D:\Faculdade_Uninove\Git & GitHub\Meus Projetos\project-crud-app\crud-app\bin\Debug\net6.0\crud-app.deps.json
+D:\Faculdade_Uninove\Git & GitHub\Meus Projetos\project-crud-app\crud-app\bin\Debug\net6.0\crud-app.runtimeconfig.json
+D:\Faculdade_Uninove\Git & GitHub\Meus Projetos\project-crud-app\crud-app\bin\Debug\net6.0\crud-app.dll
+D:\Faculdade_Uninove\Git & GitHub\Meus Projetos\project-crud-app\crud-app\bin\Debug\net6.0\ref\crud-app.dll
+D:\Faculdade_Uninove\Git & GitHub\Meus Projetos\project-crud-app\crud-app\bin\Debug\net6.0\crud-app.pdb
+D:\Faculdade_Uninove\Git & GitHub\Meus Projetos\project-crud-app\crud-app\obj\Debug\net6.0\crud-app.dll
+D:\Faculdade_Uninove\Git & GitHub\Meus Projetos\project-crud-app\crud-app\obj\Debug\net6.0\ref\crud-app.dll
+D:\Faculdade_Uninove\Git & GitHub\Meus Projetos\project-crud-app\crud-app\obj\Debug\net6.0\crud-app.pdb
+D:\Faculdade_Uninove\Git & GitHub\Meus Projetos\project-crud-app\crud-app\obj\Debug\net6.0\crud-app.genruntimeconfig.cache
